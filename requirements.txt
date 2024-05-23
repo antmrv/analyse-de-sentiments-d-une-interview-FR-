@@ -1,0 +1,11 @@
+# requirements python 3.9.19
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+nltk
+scikit-learn
+textblob
+textblob-fr
+ipywidgets
